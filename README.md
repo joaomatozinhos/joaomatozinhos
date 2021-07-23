@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou João <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Oi, eu sou o João <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <!-- <h3 align="center">A Web Developer Instructor focused on helping people start programming</h3> -->
 
 - 📚 Atualmente estou aprendendo **HTML, CSS e JavaScript**
