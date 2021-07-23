@@ -1,4 +1,9 @@
-### Hi there 👋
+### Oi, eu sou o João 👋
+
+- 📚 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 🤝 Posso te ajudar de alguma forma? Entre em contato comigo
+- 📫 Contato: IG @joao.matozinhos
+
 
 <!--
 **joaomatozinhos/joaomatozinhos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
