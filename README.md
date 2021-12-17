@@ -6,12 +6,13 @@
 <div>
   <h2>🧑🏻 About me</h2>
   <ul>
-    <li>👨🏻‍💻 JavaScript Full Stack Developer</li>
+    <li>👨🏻‍💻 Front-end Developer</li>
     <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
     <li>📚 I'm currently learning <strong>JavaScript</strong></li>
-    <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>React</strong></li>
+    <li>🌱 Soon, I'm going to study <strong>React JS</strong> and <strong>Node.js</strong></li>
     <li>🎓 Graduation in Information Systems</li>
-    <li> 💼 I'm available for work</li>
+    <li>🎯 Goal: JavaScript Full Stack Developer
+    <li>💼 I'm available for work</li>
     <li>🤝 Can I help you in any way? Contact me</li>
     <!-- <li>📄 See my resume:</li> -->
   </ul>
