@@ -4,12 +4,12 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
 
 <div>
-  <h2>🧑🏻 About me</h2>
+  <h2>👨 About me</h2>
   <ul>
     <li>👨🏻‍💻 Front-end Developer</li>
     <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
-    <li>📚 I'm currently learning <strong>JavaScript</strong></li>
-    <li>🌱 Soon, I'm going to study <strong>React JS</strong> and <strong>Node.js</strong></li>
+    <li>📚 I'm currently learning <strong>JavaScript</strong> and <strong>ReactJS</strong></li>
+    <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li>
     <li>🎓 Graduation in Information Systems</li>
     <li>🎯 Goal: JavaScript Full Stack Developer
     <li>💼 I'm available for work</li>
