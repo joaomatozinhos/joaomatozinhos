@@ -8,7 +8,7 @@
   <ul>
     <li>👨🏻‍💻 Front-end Developer</li>
     <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
-    <li>📚 I'm currently learning <strong>React JS</strong> and <strong>MySQL Database</strong></li>
+    <li>📚 I'm currently learning <strong>Angular</strong> and <strong>MySQL Database</strong></li>
     <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li>
     <li>🎓 Graduation in Information Systems</li>
     <li>🎯 Goal: JavaScript Full Stack Developer
