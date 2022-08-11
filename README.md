@@ -6,13 +6,14 @@
 <div>
   <h2>👨 About me</h2>
   <ul>
-    <li>👨🏻‍💻 Front-end Developer</li>
+    <li>👨🏻‍💻 Front-end Web Developer</li>
     <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
     <li>📚 I'm currently learning <strong>Angular</strong> and <strong>MySQL Database</strong></li>
-    <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li>
+    <!-- <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li> -->
     <li>🎓 Graduation in Information Systems</li>
-    <li>🎯 Goal: JavaScript Full Stack Developer
+    <li>🎯 Goal: Full Stack Developer
     <li>💼 I'm available for work</li>
+    <li>💼 I currently work as a Web Development Intern at Prodemge</li>
     <li>🤝 Can I help you in any way? Contact me</li>
     <!-- <li>📄 See my resume:</li> -->
   </ul>
@@ -37,17 +38,22 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-1572B6?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
   ![Trello](https://img.shields.io/badge/Trello-1888B6?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
+  ![Jira](https://img.shields.io/badge/Jira-0458D2?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-43853D?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+  
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+  ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=61DAFB)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 <!--   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -58,6 +64,9 @@
   ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; -->
+  
+  <!-- [![Tecnologias](https://skillicons.dev/icons?i=vscode,figma,github,git,gitlab,html,css,bootstrap,tailwind,js,ts,react,angular,mysql
+)](https://skillicons.dev) -->
   
   
 <!--   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)&nbsp;
