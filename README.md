@@ -12,7 +12,7 @@
     <!-- <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li> -->
     <li>🎓 Graduation in Information Systems</li>
     <li>🎯 Goal: Full Stack Developer
-    <li>💼 I'm available for work</li>
+    <!-- <li>💼 I'm available for work</li> -->
     <li>💼 I currently work as a Web Development Intern at Prodemge</li>
     <li>🤝 Can I help you in any way? Contact me</li>
     <!-- <li>📄 See my resume:</li> -->
