@@ -8,7 +8,7 @@
   <ul>
     <li>👨🏻‍💻 Front-end Web Developer</li>
     <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
-    <li>📚 I'm currently learning <strong>Angular</strong> and <strong>MySQL Database</strong></li>
+    <li>📚 I'm currently learning <strong>Java</strong></li>
     <!-- <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li> -->
     <li>🎓 Graduation in Information Systems</li>
     <li>🎯 Goal: Full Stack Developer
@@ -50,9 +50,10 @@
   ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-  ![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=61DAFB)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+  
 <!--   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -65,8 +66,7 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp; -->
   
-  <!-- [![Tecnologias](https://skillicons.dev/icons?i=vscode,figma,github,git,gitlab,html,css,bootstrap,tailwind,js,ts,react,angular,mysql
-)](https://skillicons.dev) -->
+<!--   [![Tecnologias](https://skillicons.dev/icons?i=vscode,figma,github,git,gitlab,html,css,bootstrap,tailwind,js,ts,react,angular,mysql)](https://skillicons.dev) -->
   
   
 <!--   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)&nbsp;
