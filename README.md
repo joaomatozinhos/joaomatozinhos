@@ -7,12 +7,12 @@
   <h2>👨 About me</h2>
   <ul>
     <li>👨🏻‍💻 Full Stack Developer</li>
-    <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
-    <li>📚 I'm currently specializing in <strong>Java</strong></li>
-    <!-- <li>🌱 Soon, I'm going to study <strong>Node.js</strong> and <strong>MongoDB</strong></li> -->
+    <li>💻 2 years of experience in <strong>Angular</strong> and <strong>Java/Spring</strong></li>
+    <li>📚 I'm currently specializing in <strong>DevOps</strong></li>
     <li>🎓 Graduation in Information Systems</li>
     <!-- <li>💼 I'm available for work</li> -->
-    <li>💼 I currently work as a Web Development Intern at Prodemge</li>
+    <li>💼 I currently work as a Full Stack Development Intern at Prodemge</li>
+    <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
     <li>🤝 Can I help you in any way? Contact me</li>
     <!-- <li>📄 See my resume:</li> -->
   </ul>
