@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm João Pedro <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <img align="right" width="270" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
@@ -7,11 +7,11 @@
   <h2>👨 About me</h2>
   <ul>
     <li>👨🏻‍💻 Full Stack Developer</li>
-    <li>💻 2 years of experience in <strong>Angular</strong> and <strong>Java/Spring</strong></li>
+    <li>💻 3 years of experience in <strong>Angular</strong> and <strong>Java/Spring</strong></li>
     <li>📚 I'm currently specializing in <strong>DevOps</strong></li>
     <li>🎓 Graduation in Information Systems</li>
     <!-- <li>💼 I'm available for work</li> -->
-    <li>💼 I currently work as a Full Stack Development Intern at Prodemge</li>
+    <li>💼 I currently work as a Full Stack Development at Prodemge</li>
     <li>🔎 Exploring, studying, learning and always <strong>evolving</strong></li>
     <li>🤝 Can I help you in any way? Contact me</li>
     <!-- <li>📄 See my resume:</li> -->
